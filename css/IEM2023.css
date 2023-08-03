@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 12vh;
+    background-color: plum;
+}
+
+
+p {
+    padding: 4vh ;
+    text-align: justify;
+    font-size: 18px;
+}
+
+img {
+    width: 350px;
+    margin: auto;
+    display: flex;
+}
